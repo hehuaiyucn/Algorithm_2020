@@ -12,7 +12,7 @@ int BruteforceIndex(int* w, int* m,int w_size,int m_size) {
 	return -1; //查询失败
 }
 
-int main(){
-	printf("程序1");
-	return 0;
-}
+// int main(){
+// 	printf("程序1");
+// 	return 0;
+// }
