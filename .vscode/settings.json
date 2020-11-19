@@ -2,5 +2,8 @@
     "files.autoSaveDelay": 10,
     "files.exclude": {
         "**/*.exe": true
+    },
+    "files.associations": {
+        "sstream": "cpp"
     }
 }
