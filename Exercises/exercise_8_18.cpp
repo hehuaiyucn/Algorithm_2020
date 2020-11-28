@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//todo
 void sort(int *a, int n)
 {
     int temp;
